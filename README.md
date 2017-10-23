@@ -38,9 +38,10 @@ O algoritmo de busca utilizado, Dijkstra, tem a complexidade definida por O[v²]
 
 ## Como rodar o programa
 
-O código foi feito inteiramente em C, portanto para rodar o program, baixe a pasta "vladimir-code", extraia os arquivos, entre com na pasta extraída pelo terminal e digite:
+O código foi feito inteiramente em C, portanto para rodar o programa, baixe a pasta "vladimir-code", extraia os arquivos, entre na pasta extraída pelo terminal e digite:
 
 $~  make           /* Compila o programa */
+
 $~  ./vladimir     /* Roda o programa */
 
 
